@@ -82,13 +82,13 @@ export default function App() {
     <div>
       <p className="font-bold uppercase tracking-[0.3em] text-blue-400">About Flow</p>
       <h2 className="mt-3 text-4xl font-black tracking-tight sm:text-5xl">
-        Formed in 2026 and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry., testing and support, with works completed professionally.
+        Flow Fire Protection is focused on dependable fire system service, testing and support, with works completed professionally. We support all areas of the fire industry across commercial, industrial and residential properties. and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry., testing and support, with works completed professionally.
       </h2>
     </div>
 
     <div className="rounded-[2rem] border border-white/10 bg-white/5 p-8">
       <p className="text-lg leading-8 text-slate-300">
-        Formed in 2026 and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry., testing and support, with works completed professionally. We support all areas of the fire industry across commercial, industrial and residential properties. and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry.
+        Flow Fire Protection is focused on dependable fire system service, testing and support, with works completed professionally. We support all areas of the fire industry across commercial, industrial and residential properties. and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry., testing and support, with works completed professionally. We support all areas of the fire industry across commercial, industrial and residential properties. and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry.
       </p>
     </div>
   </div>
@@ -97,13 +97,13 @@ export default function App() {
     <div>
       <p className="font-bold uppercase tracking-[0.3em] text-blue-400">About Flow</p>
       <h2 className="mt-3 text-4xl font-black tracking-tight sm:text-5xl">
-        Formed in 2026 and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry., testing and support, with works completed professionally.
+        Flow Fire Protection is focused on dependable fire system service, testing and support, with works completed professionally. We support all areas of the fire industry across commercial, industrial and residential properties. and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry., testing and support, with works completed professionally.
       </h2>
     </div>
 
     <div className="rounded-[2rem] border border-white/10 bg-white/5 p-8">
       <p className="text-lg leading-8 text-slate-300">
-        Formed in 2026 and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry.
+       Flow Fire Protection is focused on dependable fire system service, testing and support, with works completed professionally. We support all areas of the fire industry across commercial, industrial and residential properties.  and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry.
       </p>
     </div>
   </div>
@@ -118,7 +118,7 @@ export default function App() {
 
     <div className="rounded-[2rem] border border-white/10 bg-white/5 p-8">
       <p className="text-lg leading-8 text-slate-300">
-        Formed in 2026 and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry.
+        Flow Fire Protection is focused on dependable fire system service, testing and support, with works completed professionally. We support all areas of the fire industry across commercial, industrial and residential properties. and as the new kids on the block, we want to do things differently. We provide a win-win solution with more cost effective, reliable services for our clients. In return, we aim to keep long-term clients and strong relationships within the industry.
       </p>
     </div>
   </div>
