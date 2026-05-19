@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Flame, ShieldCheck, Wrench, ClipboardCheck, Phone, Mail, Menu, X, ChevronRight, Clock, MapPin, CheckCircle2, Zap } from "lucide-react";
 import { motion } from "framer-motion";
-import flowLogo from "./flow logo.png";
+import flowLogo from "../flow logo.png";
 
 const services = [
   { title: "Fire Detection Systems", text: "Specialising in the servicing, testing, fault finding and repairs of stand-alone and networked fire detection systems.", icon: ShieldCheck },
