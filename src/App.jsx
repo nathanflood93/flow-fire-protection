@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Flame, ShieldCheck, Wrench, ClipboardCheck, Phone, Mail, Menu, X, ChevronRight, Clock, MapPin, CheckCircle2, Zap } from "lucide-react";
 import { motion } from "framer-motion";
+import flowLogo from "./flow logo.png";
 
 const services = [
   { title: "Fire Detection Systems", text: "Specialising in the servicing, testing, fault finding and repairs of stand-alone and networked fire detection systems.", icon: ShieldCheck },
@@ -13,18 +14,11 @@ const services = [
 
 function FlowLogo({ large = false }) {
   return (
-    <svg viewBox="0 0 600 266" aria-label="Flow Fire Protection" className={`${large ? "w-[420px] max-w-full" : "w-[210px]"} h-auto block`} role="img">
-      <rect width="600" height="266" fill="#020817" />
-      <defs>
-        <linearGradient id="flowLogoBlue" x1="25" y1="20" x2="165" y2="245" gradientUnits="userSpaceOnUse">
-          <stop offset="0" stopColor="#4FC3FF" />
-          <stop offset="0.45" stopColor="#128BFF" />
-          <stop offset="1" stopColor="#003B95" />
-        </linearGradient>
-      </defs>
-      <path fill="url(#flowLogoBlue)" fillRule="evenodd" d="M85 22L85 37L79 53L70 66L49 88L34 108L26 125L22 141L22 161L24 171L30 187L36 197L44 207L56 218L79 231L69 217L62 200L60 187L61 172L69 150L96 116L107 96L110 84L111 71L108 55L102 41L96 32ZM128 77L127 94L121 110L112 123L86 152L78 168L75 181L76 200L82 216L88 225L98 235L110 242L103 223L103 203L110 184L120 170L125 166L130 171L140 191L142 209L139 225L136 229L150 216L158 204L163 193L167 177L166 149L162 136L155 122L153 122L151 131L147 139L139 148L138 147L144 129L144 110L139 93L132 81" />
-      <path fill="#FFFFFF" fillRule="evenodd" d="M425 114L446 192L483 192L495 147L499 157L507 192L545 192L567 114L537 114L525 167L521 156L512 114L481 114L468 167L466 165L456 115ZM338 124L331 133L328 141L327 162L331 174L342 186L361 193L384 194L402 190L414 183L420 176L425 165L426 148L421 132L411 121L392 113L368 112L351 116ZM281 82L205 82L205 192L237 192L238 149L275 148L275 126L238 126L237 106L281 105ZM287 82L287 192L318 192L318 82ZM366 137L371 135L382 135L391 141L394 148L394 158L392 164L386 170L379 172L369 171L364 168L360 163L358 157L358 149L360 143Z" />
-    </svg>
+    <img
+      src={flowLogo}
+      alt="Flow Fire Protection"
+      className={large ? "w-[420px] max-w-full h-auto block" : "w-[210px] h-auto block"}
+    />
   );
 }
 
